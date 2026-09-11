@@ -228,64 +228,7 @@ Lower-risk positions:
 
 ---
 
-## 📁 Project Structure
 
-```
-IBM-HR-Analytics-Dashboard/
-├── 📄 README.md                          # Project documentation (this file)
-├── 📄 LICENSE                            # MIT License
-├── 📄 CONTRIBUTING.md                    # Contribution guidelines
-├── 📄 DATA_DICTIONARY.md                 # Field definitions & DAX formulas
-├── 📄 .gitignore                         # Git configuration
-│
-├── 📊 HR_Dashboard.pbix                  # Main Power BI dashboard file
-├── 📑 IBM_HR_Analytics_Report.pdf        # Detailed analysis report
-│
-├── 📁 screenshots/
-│   └── 📸 dashboard_preview.png          # Dashboard preview image
-│
-├── 📁 docs/
-│   ├── INSTALLATION_GUIDE.md             # Setup instructions
-│   ├── USAGE_GUIDE.md                    # How to use the dashboard
-│   └── METHODOLOGY.md                    # Analysis approach
-│
-└── 📁 analysis/
-    ├── attrition_analysis.md             # Detailed findings
-    └── recommendations.md                # Actionable insights
-```
-
----
-
-## 🚀 How to Use This Dashboard
-
-### Prerequisites
-- **Power BI Desktop** (Free or Pro version)
-- Windows 10/11 or macOS
-- Minimum 4GB RAM
-- 500MB free disk space
-
-### Installation Steps
-
-1. **Clone or Download Repository**
-```bash
-git clone https://github.com/YOUR-USERNAME/IBM-HR-Analytics-Dashboard.git
-cd IBM-HR-Analytics-Dashboard
-```
-
-2. **Install Power BI Desktop**
-- Download from: https://powerbi.microsoft.com/desktop
-- Install and sign in with Microsoft account
-
-3. **Open Dashboard**
-- Double-click `HR_Dashboard.pbix`
-- Power BI Desktop will launch automatically
-- Wait for data model to load (takes 10-15 seconds)
-
-4. **Explore Interactive Features**
-- Use filters and slicers on the right panel
-- Click on any chart to cross-filter other visuals
-- Hover over data points for detailed tooltips
-- Export reports as PDF/PowerPoint if needed
 
 ### Navigation Guide
 
