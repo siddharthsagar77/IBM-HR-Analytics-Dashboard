@@ -279,13 +279,7 @@ IBM-HR-Analytics-Dashboard/
 
 ---
 
-## 🚀 How to Use
 
-### Power BI Dashboard
-1. Open `HR_Dashboard.pbix` in Power BI Desktop
-2. Use interactive filters for department/role analysis
-3. Explore KPI cards and visualizations
-4. Export insights as needed
 
 ### SQL Analysis
 1. Import HR dataset to SQL Server
